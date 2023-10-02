@@ -12,7 +12,7 @@ preenchidos;
 * Verifique se todos os dados foram inseridos;
 * Ao término inicie a segunda etapa
 
-A criação do banco de dados está descrita no arquivo: [Exercicio3_1.sql](Exercicio_3_1.sql)
+A criação do banco de dados está descrita no arquivo: [Exercicio3_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2/blob/main/Exercicio_3_1.sql)
 
 No Workbench:
 ![ExercicioTela3_1.png](ExercicioTela3_1.png)
