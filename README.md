@@ -15,4 +15,4 @@ preenchidos;
 A criação do banco de dados está descrita no arquivo: [Exercicio3_1.sql](Exercicio3_1)
 
 No Workbench:
-![ExercicioTela3_1](ExercicioTela3_1)
+![ExercicioTela3_1.png](ExercicioTela3_1.png)
